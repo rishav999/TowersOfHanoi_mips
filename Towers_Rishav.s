@@ -1,11 +1,7 @@
 # towers.s - Solve the Towers of Hanoi puzzle.
 # Print each move and return the total number
 # of moves needed to solve the puzzle.
-#
-# Author:	Chris Nevison	1997/09/22
-# Revised:	Tom Parks	2002/09/27
-
-# Student:	Your Name	Date
+# CS 201 Prof. Chris Nevison
 
 .text 
 .globl towers 
